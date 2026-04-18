@@ -25,9 +25,9 @@ This project was initiated to support my family's business during financial chal
 - QR Code Generators
 
 ## 🌐 Live Links
-- Website: [(ضع الرابط)](https://mohammad-khalaf-dentistr-x7qlb1z.gamma.site/)
-- Google Maps: [(ضع الرابط)](https://maps.app.goo.gl/XR1G2f7MnyBk7iQQ6)
-- Linktree: [(ضع الرابط)](https://linktr.ee/drmohammad57)
+- Website: [(url)](https://mohammad-khalaf-dentistr-x7qlb1z.gamma.site/)
+- Google Maps: [(url)](https://maps.app.goo.gl/XR1G2f7MnyBk7iQQ6)
+- Linktree: [(url)](https://linktr.ee/drmohammad57)
 
 ## 👤 Author
 Jawad Obeidat# 🦷 Dental Clinic Digital Transformation
